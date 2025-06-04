@@ -7,6 +7,15 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-    <h1>Nosso Website PHP</h1>
+    <header class="navbar">
+        <h1>Nosso Website PHP</h1>
+    </header>
+    <content>
+        <p>content</p>
+    </content>
+    <footer class="footer">
+        <hr>
+        <p>website&copy</p>
+    </footer>
 </body>
 </html>
