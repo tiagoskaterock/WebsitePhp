@@ -16,7 +16,7 @@
             <p>Quisque vehicula mollis ipsum, non commodo felis feugiat quis. Praesent aliquet dolor leo, eget porta massa pretium eget. Donec quis augue non ligula feugiat bibendum eget ut tellus. Ut egestas pulvinar purus in suscipit. Duis congue placerat tempus. Proin in finibus nulla. Ut nec luctus erat, sed volutpat tellus. Praesent ornare augue tristique ipsum lobortis, ac viverra velit pharetra. Mauris viverra ultrices felis in placerat. Ut vel ullamcorper est. In hac habitasse platea dictumst. Pellentesque iaculis justo ac nulla lacinia, ut dignissim enim vehicula. Fusce tincidunt volutpat turpis ut congue. Maecenas fringilla commodo lorem. Phasellus sed risus eleifend, varius justo eget, interdum diam. Nullam eu tortor et arcu pretium consectetur non sed dolor. </p>
             <p>Quisque vehicula mollis ipsum, non commodo felis feugiat quis. Praesent aliquet dolor leo, eget porta massa pretium eget. Donec quis augue non ligula feugiat bibendum eget ut tellus. Ut egestas pulvinar purus in suscipit. Duis congue placerat tempus. Proin in finibus nulla. Ut nec luctus erat, sed volutpat tellus. Praesent ornare augue tristique ipsum lobortis, ac viverra velit pharetra. Mauris viverra ultrices felis in placerat. Ut vel ullamcorper est. In hac habitasse platea dictumst. Pellentesque iaculis justo ac nulla lacinia, ut dignissim enim vehicula. Fusce tincidunt volutpat turpis ut congue. Maecenas fringilla commodo lorem. Phasellus sed risus eleifend, varius justo eget, interdum diam. Nullam eu tortor et arcu pretium consectetur non sed dolor. </p>
         </div>        
-        </div>
+       
     </content>
     <footer class="footer">
         <hr>
